@@ -11,7 +11,7 @@ Simple Bash script to find admin login page
 Coded By ./reapers
 ${reapers}
 "
-page="/administrator"
+page="/administrator/login.php"
 
 echo -ne "input list: "
 read input
